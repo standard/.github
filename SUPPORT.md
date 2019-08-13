@@ -8,4 +8,4 @@ There are many ways to get help with your issues.
 
 - Get a support contract
 
-  - Feross offers an [open source support contract](https://feross.org/support/), for companies and teams who want dedicated support, advice, and direct assistance with JavaScript, Node.js, security, or open source issues.
+  - The lead maintainer, Feross, offers an [open source support contract](https://feross.org/support/), for companies and teams who want dedicated support, advice, and direct assistance with JavaScript, Node.js, security, or open source issues.
