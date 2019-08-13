@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**What version of this package?**
+**What version of this package are you using?**
 
 **What operating system, Node.js, and npm version?**
 

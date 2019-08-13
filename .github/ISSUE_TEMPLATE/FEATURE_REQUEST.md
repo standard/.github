@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**What version of this package?**
+**What version of this package are you using?**
 
 **What problem do you want to solve?**
 
