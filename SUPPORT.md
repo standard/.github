@@ -1,0 +1,1 @@
+Feross offers an [open source support contract](https://feross.org/support/), for companies and teams who want dedicated support, advice, and direct assistance with JavaScript, Node.js, P2P, security, or other open source issues.
