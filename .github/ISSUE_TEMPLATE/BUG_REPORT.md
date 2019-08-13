@@ -1,6 +1,6 @@
 ---
 name: "🐞 Bug report"
-about: Report an issue with this package
+about: Report an issue with this software
 title: ''
 labels: ''
 assignees: ''
