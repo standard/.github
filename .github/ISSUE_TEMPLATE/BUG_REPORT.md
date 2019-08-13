@@ -1,5 +1,5 @@
 ---
-name: "🐞 Bug report"
+name: "Bug report"
 about: Report an issue with this package
 title: ''
 labels: ''

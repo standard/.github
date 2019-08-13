@@ -1,5 +1,5 @@
 ---
-name: "⛔ Security issue"
+name: "Security issue"
 about: Please file security issues at https://github.com/standard/standard/blob/master/SECURITY.md
 title: ''
 labels: ''
