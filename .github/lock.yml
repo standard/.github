@@ -1,0 +1,10 @@
+# ProBot Lock (https://probot.github.io/apps/lock/)
+
+# Number of days of inactivity before a closed issue or pull request is locked
+daysUntilLock: 365
+
+# Comment to post before locking. Set to `false` to disable
+lockComment: false
+
+# Limit to only `issues` or `pulls`
+only: issues

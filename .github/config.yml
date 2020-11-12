@@ -1,15 +1,21 @@
 # ProBot Request Info (https://probot.github.io/apps/request-info/)
 
+# Comment to reply with
 requestInfoReplyComment: >
   👋 We would appreciate it if you could provide us with more information about this
   issue. <br><br> ![](https://feross.net/x/cats/14.gif)
+
+# Label to be added to Issues and Pull Requests with insufficient information given
 requestInfoLabelToAdd: 'need more info'
 
 # ProBot Welcome (https://probot.github.io/apps/welcome/)
 
+# Comment to be posted to on first time issues
 newPRWelcomeComment: >
   🙌 Thanks for opening this pull request! You're awesome.
   <br><br> ![](https://feross.net/x/cats/6.gif)
+
+# Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
   🎉 Congrats on getting your first pull request landed! <br><br>
   ![](https://feross.net/x/cats/29.gif)
