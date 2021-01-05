@@ -1,4 +1,4 @@
-**What is the purpose of this pull request? (put an "X" next to item)**
+**What is the purpose of this pull request? (put an "X" in the box like this `[X]`)**
 
 - [ ] Documentation update
 - [ ] Bug fix
