@@ -1,0 +1,15 @@
+on:
+  workflow_call:
+    secrets:
+      ADD_TO_PROJECT_TOKEN:
+        required: true
+
+jobs:
+  add-to-project:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@v0.5
+        with:
+          project-url: https://github.com/orgs/standard/projects/1
+          github-token: ${{ secrets.ADD_TO_PROJECT_TOKEN }}
+
