@@ -1,7 +1,7 @@
 on:
   workflow_call:
     secrets:
-      ADD_TO_PROJECT_API_ID:
+      ADD_TO_PROJECT_APP_ID:
         required: true
       ADD_TO_PROJECT_PRIVATE_KEY:
         required: true
