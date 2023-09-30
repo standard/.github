@@ -1,18 +1,21 @@
 ---
 name: "🐞 Bug report"
-about: Report an issue with this software
-title: ''
-labels: ''
-assignees: ''
-
+about: Some behavior does not meet expectations
 ---
 
-**What version of this package are you using?**
+## Here's what I did
 
-**What operating system, Node.js, and npm version?**
+## What I expected to happen
 
-**What happened?**
+## What seems to have happened
 
-**What did you expect to happen?**
+<!--
 
-**Are you willing to submit a pull request to fix this bug?**
+Please provide your dependency tree as an attachment unless not applicable.
+Feel free to omit sensitive information.
+
+npm: `$ npm ls`
+yarn: `$ yarn list`
+
+-->
+
